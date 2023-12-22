@@ -14,7 +14,7 @@ InstruRentals is a website built using the MERN (MongoDB, Express.js, React.js, 
 <ins>Frontend<ins>
 
 - React.js
-- axios for navigation
+- axios for HTTP calls
 - Tailwind for styling
 
 <ins>Backend<ins>
